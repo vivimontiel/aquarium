@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fabianamontiel/Desktop/aquarium/Algue.h
+
+/Users/fabianamontiel/Desktop/aquarium/Aquarium.cpp
+iostream
+-
+Aquarium.h
+/Users/fabianamontiel/Desktop/aquarium/Aquarium.h
+
+/Users/fabianamontiel/Desktop/aquarium/Aquarium.h
+list
+-
+set
+-
+Poisson.h
+/Users/fabianamontiel/Desktop/aquarium/Poisson.h
+Algue.h
+/Users/fabianamontiel/Desktop/aquarium/Algue.h
+
+/Users/fabianamontiel/Desktop/aquarium/Poisson.h
+stdlib.h
+-
+stdio.h
+-
+string
+-
+

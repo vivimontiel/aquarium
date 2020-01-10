@@ -1,4 +1,4 @@
-# Install script for directory: /Users/vivianamontiel/Documents/ESGI/ProgrammationC++/projetAquarium/aquarium
+# Install script for directory: /Users/fabianamontiel/Desktop/aquarium
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/vivianamontiel/Documents/ESGI/ProgrammationC++/projetAquarium/aquarium/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/fabianamontiel/Desktop/aquarium/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

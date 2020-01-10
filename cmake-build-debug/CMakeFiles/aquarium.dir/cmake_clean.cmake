@@ -1,4 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/aquarium.dir/Algue.cpp.o"
+  "CMakeFiles/aquarium.dir/Aquarium.cpp.o"
+  "CMakeFiles/aquarium.dir/Poisson.cpp.o"
   "CMakeFiles/aquarium.dir/main.cpp.o"
   "aquarium"
   "aquarium.pdb"
